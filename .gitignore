@@ -1,8 +1,8 @@
 # Unity generated
 Library/
 Temp/
-Obj/
-Build/
+#Obj/
+#Build/
 Logs/
 MemoryCaptures/
 UserSettings/
@@ -12,4 +12,4 @@ UserSettings/
 Thumbs.db
 
 # WebGL build output
-webgl_build/
+#webgl_build
